@@ -15,16 +15,16 @@ The datasets include hourly or daily readings of key pollutants like PM2.5, PM10
 
 To make the datasets compatible for comparison:
 
-Madrid dataset was filtered using Python to include only 2015–2020 data.
+- Madrid dataset was filtered using Python to include only 2015–2020 data.
 
-Delhi dataset was filtered using Python to select only records from Delhi city (city_hour.csv).
+- Delhi dataset was filtered using Python to select only records from Delhi city (city_hour.csv).
 
-Both datasets were further filtered in Python to include only matching features/pollutants for consistent analysis.
+- Both datasets were further filtered in Python to include only matching features/pollutants for consistent analysis.
 
 Monthly averages were calculated to smooth short-term variability, and an Air Quality Index (AQI) classification was applied based on PM2.5 levels, ranging from Good to Hazardous, to provide a clear overview of air quality in both cities.
 
-Delhi shows higher pollution levels, often reaching Hazardous and Very Poor categories.
+- Delhi shows higher pollution levels, often reaching Hazardous and Very Poor categories.
 
-Madrid maintains lower pollution levels, mostly in Good and Moderate categories.
+- Madrid maintains lower pollution levels, mostly in Good and Moderate categories.
 
 These cleaned and filtered datasets were used to create visual comparisons and trends in Power BI dashboards.
