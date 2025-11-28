@@ -27,6 +27,8 @@ These cleaned and filtered datasets were used to create visual comparisons and t
 
 ## Data Visualization
 
+<img width="657" height="372" alt="Image" src="https://github.com/user-attachments/assets/a7c83b7f-7080-4970-9bbc-2db9f5a07e22" />
+
 A set of interactive visualizations was created using **Microsoft Power BI** to compare air quality between **Delhi** and **Madrid** from 2015 to 2020. The dashboard helps users understand trends and patterns in different pollutants, including PM2.5, PM10, NOx, NO2, CO, SO2, and O3.
 
 Key features of the dashboard include:
